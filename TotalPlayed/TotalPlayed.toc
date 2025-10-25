@@ -1,0 +1,9 @@
+## Interface: 100207
+## Title: TotalPlayed
+## Author: FuryShiftz
+## Notes: This is my cool addon.
+## Version: 1.0.0
+## SavedVariables: TotalPlayTime
+## SavedVariablesPerCharacter: TotalPlayTimeForCharacter
+
+TotalPlayed.lua
